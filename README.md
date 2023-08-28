@@ -54,10 +54,10 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## Media Test
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-[TESTBIGD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdavid-dierolf&psig=AOvVaw0K2fWv81QwwmNVsLKETDO3&ust=1693319404325000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCNC55cTI_4ADFQAAAAAdAAAAABAD)
+
 
 ### Test Link
 
 ### Test Image
-
+[bigD](images/thebigd2.png)
 ### Test GIF
