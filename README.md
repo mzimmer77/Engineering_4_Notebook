@@ -61,4 +61,4 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Image
 ![bigD](images/thebigd2.png)
 ### Test GIF
-![gif1](images/gif1.png)
+![its-friday-dancing](https://github.com/mzimmer77/Engineering_4_Notebook/assets/112961434/42d6898b-dee3-4c53-982f-c75a0a9f01fd)
