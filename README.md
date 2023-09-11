@@ -3,30 +3,43 @@
 &nbsp;
 
 ## Table of Contents
+* [Launchpad Part 1](#Launchpad_P1)
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Launchpad_P1 
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+In Launch Pad Part 1, we had to countdown from 10 seconds down to Liftoff (at 0 seconds). That countdown must be printed to the serial monitor.
 
 ### Evidence 
+![Something like this](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CountdownP1.gif.gif).
 
  
 
 ### Wiring
 
-T. 
+The wiring consisted of plugging the PICO board into my computer.
 
 ### Code
-![Something like this](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CountdownP1.gif.gif).
+``` python
+# type: ignore #ignores problems
+import time #adds time
 
+for x in range (10,0,-1): #using intervals that start at 10 and go to 0 with intervals every -1 
+    print (x) #prints my numbers as x
+    time.sleep (1) #counts down every second
+print ("we have liftoff") #prints we have liftoff
+
+```  
 ### Reflection
-
+This project was a great refresher for my python skills. I used the "for x in range (10,0,-1)" to make my intervals which would go down by 1. I learned/ remembered the syntax which was honestly annoying but it is pretty simple once you remember it (the key is to use commas for the loop).
 
 &nbsp;
 
