@@ -28,16 +28,9 @@ In Launch Pad Part 1, we had to countdown from 10 seconds down to Liftoff (at 0 
 The wiring consisted of plugging the PICO board into my computer.
 
 ### Code
-``` python
-# type: ignore #ignores problems
-import time #adds time
 
-for x in range (10,0,-1): #using intervals that start at 10 and go to 0 with intervals every -1 
-    print (x) #prints my numbers as x
-    time.sleep (1) #counts down every second
-print ("we have liftoff") #prints we have liftoff
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/launchpadP1.py)
 
-```  
 ### Reflection
 This project was a great refresher for my python skills. I used the "for x in range (10,0,-1)" to make my intervals which would go down by 1. I learned/ remembered the syntax which was honestly annoying but it is pretty simple once you remember it (the key is to use commas for the loop).
 
@@ -51,14 +44,15 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
- 
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
 
 ### Wiring
 
-T. 
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
