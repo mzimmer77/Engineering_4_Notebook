@@ -15,4 +15,5 @@ for x in range (10,0,-1): #using intervals that start at 10 and go to 0 with int
     ledRed.value = False
     time.sleep (0.5) #counts down every second
 print ("we have liftoff") #prints we have liftoff
-
+ledGreen.value = True
+time.sleep (1)
