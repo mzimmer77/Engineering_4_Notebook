@@ -29,7 +29,7 @@ The wiring consisted of plugging the PICO board into my computer.
 
 ### Code
 
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/launchpadP1.py)
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/launchpadP1.py)
 
 ### Reflection
 This project was a great refresher for my python skills. I used the "for x in range (10,0,-1)" to make my intervals which would go down by 1. I learned/ remembered the syntax which was honestly annoying but it is pretty simple once you remember it (the key is to use commas for the loop).
@@ -49,10 +49,10 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Wiring
 
 [My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
+Me and [Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
