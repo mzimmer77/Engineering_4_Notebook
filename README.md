@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [Launchpad Part 1](#Launchpad_P1)
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launchpad Part 2](#Launchpad_P2)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
@@ -36,7 +36,7 @@ This project was a great refresher for my python skills. I used the "for x in ra
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Launchpad_P2
 
 ### Assignment Description
 
@@ -68,20 +68,20 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
- 
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
 
 ### Wiring
 
-T. 
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
 
 &nbsp;
-
 
 ## Raspberry_Pi_Assignment_Template
 
@@ -91,20 +91,20 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
- 
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
 
 ### Wiring
 
-T. 
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
 
 &nbsp;
-
 
 ## Raspberry_Pi_Assignment_Template
 
@@ -114,42 +114,21 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
- 
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
 
 ### Wiring
 
-T. 
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
 
 &nbsp;
 
-
-## Raspberry_Pi_Assignment_Template
-
-### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
-### Evidence 
-
- 
-
-### Wiring
-
-T. 
-
-### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
-
-### Reflection
-
-
-&nbsp;
 
 
 ## Onshape_Assignment_Template
