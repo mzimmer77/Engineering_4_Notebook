@@ -60,15 +60,14 @@ Me and [Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the s
 &nbsp;
 
 
-## Raspberry_Pi_Assignment_Template
+## Launchpad_P3
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+The assignment was to add a button to part 2 and to press the button then have the serial monitor count down from 10 while the red LED blinks every second.
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/COuntdownP3.gif)
 
 ### Wiring
 
