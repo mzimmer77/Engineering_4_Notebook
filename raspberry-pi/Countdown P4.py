@@ -14,12 +14,12 @@ Button = digitalio.DigitalInOut(board.GP3)#sets pin for button
 Button.direction = digitalio.Direction.INPUT
 Button.pull = digitalio.Pull.UP #internaly resists the button 
 
-pwm_servo = pwmio.PWMOut(board.GP6, duty_cycle=2 ** 15, frequency=50)
+pwm_servo = pwmio.PWMOut(board.GP28, duty_cycle=2 ** 15, frequency=50)
 servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
 
 
 while True:
-    if Button.value == True: 
+    if Button.value == False: 
         for x in range (10,0,-1): #using intervals that start at 10 and go to 0 with intervals every -1
             print (x) #prints my 
             ledRed.value = True #turns LED ON
