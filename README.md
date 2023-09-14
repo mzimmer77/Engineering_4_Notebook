@@ -5,8 +5,8 @@
 ## Table of Contents
 * [Launchpad Part 1](#Launchpad_P1)
 * [Launchpad Part 2](#Launchpad_P2)
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launchpad Part 3](#Launchpad_P3)
+* [Launchpad Part 4](#Launchpad_P4)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -49,7 +49,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Wiring
 
 [My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-Me and [Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
+
 
 ### Code
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
@@ -72,10 +72,10 @@ The assignment was to add a button to part 2 and to press the button then have t
 ### Wiring
 
 [My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
+
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchpadP3.py).
 
 ### Reflection
 
@@ -89,15 +89,14 @@ Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the 
 The assignment was to add a servo to part 3 and make it rotate 180 degrees after the serial monitor printed "we have liftoff"
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CountdownP4.gif)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py)
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py).
 
 ### Reflection
 
@@ -117,7 +116,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Wiring
 
 [My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the same pins so I used his diagram
+
 
 ### Code
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
