@@ -14,7 +14,7 @@ Button = digitalio.DigitalInOut(board.GP3)#sets pin for button
 Button.direction = digitalio.Direction.INPUT
 Button.pull = digitalio.Pull.UP #internaly resists the button 
 
-pwm_servo = pwmio.PWMOut(board.GP28, duty_cycle=2 ** 15, frequency=50)
+pwm_servo = pwmio.PWMOut(board.GP28, duty_cycle=2 ** 15, frequency=50) #sets servo pin number I used PWMOut instead of in in orer to change my wiring.
 servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
 
 
@@ -27,8 +27,8 @@ while True:
             ledRed.value = False # TURNS LED OFF
             sleep (0.5) #counts down every second
         print ("we have liftoff") #prints we have liftoff
-        servo1.angle = 0
-        ledGreen.value = True
+        servo1.angle = 0 #starts servo angle at 0
+        ledGreen.value = True #turns LED on after liftoff
         sleep (3)
-        ledGreen.value = False
-        servo1.angle = 180
+        ledGreen.value = False #turns LED off
+        servo1.angle = 180 #servo angle goes to 180

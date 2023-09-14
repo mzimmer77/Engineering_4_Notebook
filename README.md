@@ -82,12 +82,11 @@ Me and ![Aweder05](https://github.com/aweder05/Engineering_4_Notebook) used the 
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Launchpad_P4
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+The assignment was to add a servo to part 3 and make it rotate 180 degrees after the serial monitor printed "we have liftoff"
 ### Evidence 
 
 ![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
