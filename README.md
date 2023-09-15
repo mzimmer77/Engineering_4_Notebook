@@ -40,7 +40,7 @@ This project was a great refresher for my python skills. I used the "for x in ra
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+to have the serial monitor countdown from 10 to 0 by intervals of one and have a red LED blink the whole time every second. then when takeoff is initiated, A green LED should blink on.
 
 ### Evidence 
 
@@ -48,7 +48,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/Countdown%20P2%20wiring.png)
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/Countdown%20P2%20wiring.png)
 
 
 ### Code
@@ -56,7 +56,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Reflection
 
-
+Remembering how to wire even the leds was not easy so I asked google which yeilded positive results. I also had to use the right resistor which is the 220. Additionally,  using the right ports on the PICO is important. Make sure you put in the code to both put LEDs in and put them on the right ports.
 &nbsp;
 
 
@@ -78,7 +78,7 @@ The assignment was to add a button to part 2 and to press the button then have t
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchpadP3.py).
 
 ### Reflection
-
+I was tasked with adding a button to the perious codes which again hung me up at first remembering how to wire up the button so I went on [this website](https://docs.arduino.cc/built-in-examples/digital/Button). I had to add my commands to bring the button into the code and give it both a PWM slot and a GND port. For the actual code though I literally had to just add an IF loop so that when I pressed the button it would initiate the rest.
 
 &nbsp;
 
@@ -99,7 +99,7 @@ The assignment was to add a servo to part 3 and make it rotate 180 degrees after
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py).
 
 ### Reflection
-
+I had to again use the previous code and I had to add in my srvo which I had to find the wirig to on [this website](https://docs.arduino.cc/learn/electronics/servo-motors). I had to bring it to 3.3v and I ended up using the 28th PWM port which just made the wiring look nicer. I learned that I had to put the servo angles to start at 0 so it wouldn't move until prompted at the end. I also used this part digitalio.Pull.UP because I chnaged where my GND was and where I was pulling from.
 
 &nbsp;
 
