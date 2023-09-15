@@ -48,7 +48,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/Countdown%20P2%20wiring.png)
 
 
 ### Code
@@ -71,7 +71,7 @@ The assignment was to add a button to part 2 and to press the button then have t
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CountdownP3%20Wiring.png)
 
 
 ### Code
@@ -93,7 +93,7 @@ The assignment was to add a servo to part 3 and make it rotate 180 degrees after
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py)
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/Countdown%20P4%20Wiring.png)
 
 ### Code
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py).
