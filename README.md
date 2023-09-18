@@ -78,7 +78,7 @@ The assignment was to add a button to part 2 and to press the button then have t
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/LaunchpadP3.py).
 
 ### Reflection
-I was tasked with adding a button to the perious codes which again hung me up at first remembering how to wire up the button so I went on [this website](https://docs.arduino.cc/built-in-examples/digital/Button). I had to add my commands to bring the button into the code and give it both a PWM slot and a GND port. For the actual code though I literally had to just add an IF loop so that when I pressed the button it would initiate the rest.
+I was tasked with adding a button to the perious codes which again hung me up at first remembering how to wire up the button so I went on [this website](https://docs.arduino.cc/built-in-examples/digital/Button). I had to add my commands to bring the button into the code and give it both a PWM slot and a GND port. For the actual code  literally had to just add an IF loop so that when I pressed the button it would initiate the rest.
 
 &nbsp;
 
@@ -99,7 +99,7 @@ The assignment was to add a servo to part 3 and make it rotate 180 degrees after
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py).
 
 ### Reflection
-I had to again use the previous code and I had to add in my srvo which I had to find the wirig to on [this website](https://docs.arduino.cc/learn/electronics/servo-motors). I had to bring it to 3.3v and I ended up using the 28th PWM port which just made the wiring look nicer. I learned that I had to put the servo angles to start at 0 so it wouldn't move until prompted at the end. I also used this part digitalio.Pull.UP because I chnaged where my GND was and where I was pulling from.
+I had to again use the previous code and I had to add in my srvo which I had to find the wiring to on [this website](https://docs.arduino.cc/learn/electronics/servo-motors). I had to bring it to 3.3v and I ended up using the 28th PWM port which just made the wiring look nicer. I learned that I had to put the servo angles to start at 0 so it wouldn't move until prompted at the end. I also used this part digitalio.Pull.UP because I changed where my GND was and where I was pulling from.
 
 &nbsp;
 
