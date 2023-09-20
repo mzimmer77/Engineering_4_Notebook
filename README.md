@@ -99,7 +99,30 @@ The assignment was to add a servo to part 3 and make it rotate 180 degrees after
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Countdown%20P4.py).
 
 ### Reflection
-I had to again use the previous code and I had to add in my srvo which I had to find the wiring to on [this website](https://docs.arduino.cc/learn/electronics/servo-motors). I had to bring it to 3.3v and I ended up using the 28th PWM port which just made the wiring look nicer. I learned that I had to put the servo angles to start at 0 so it wouldn't move until prompted at the end. I also used this part digitalio.Pull.UP because I changed where my GND was and where I was pulling from.
+I had to again use the previous code and I had to add in my servo which I had to find the wiring to on [this website](https://docs.arduino.cc/learn/electronics/servo-motors). I had to bring it to 3.3v and I ended up using the 28th PWM port which just made the wiring look nicer. I learned that I had to put the servo angles to start at 0 so it wouldn't move until prompted at the end. I also used this part digitalio.Pull.UP because I changed where my GND was and where I was pulling from.
+
+&nbsp;
+
+## CrashAvoidanceP1
+
+### Assignment Description
+
+Our objective: wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor. The units should be in m/s2.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CrashAvoidanceP1%20GIF.gif)
+
+### Wiring
+
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CrashavoidanceP1%20wiring.png)
+
+
+### Code
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidance_1.py).
+
+### Reflection
+This assignment was difficult from the start but when I looked at the assignment on canvas it made it easier to wire up the gyroscope and I had to use the PWM pins GP14 and GP15 so that I had the I2C, SDA, and SCL so I could wire correctly. I had to use the mpu.acceleration with each value X,Y,Z so that I could get each value multiple times. Then all I did was print all my values with the print(f"X acceleration = {XAcceleration}") for X,Y,Z and I added a small sleep command so the values didn't come out too fast.
 
 &nbsp;
 
@@ -125,6 +148,55 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 
 &nbsp;
+
+
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
+
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
 
 
 
