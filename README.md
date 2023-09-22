@@ -134,15 +134,15 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CrashavoidanceP2%20GIF.gif)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/Crashavoidance2Wriing.png)
 
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
 
