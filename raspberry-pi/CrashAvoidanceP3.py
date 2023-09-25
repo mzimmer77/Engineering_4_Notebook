@@ -12,11 +12,22 @@ import time
 
 
 displayio.release_displays()
+sda_pin = board.GP14  #setting up my pins in the accelerometer 
+scl_pin = board.GP15 #same thing
+
 i2c = busio.I2C(scl_pin, sda_pin) #
-display_bus = displayio.I2CDisplay(i2c, device_address=0x3d, reset=board.GP14)
+
+
+display_bus = displayio.I2CDisplay(i2c, device_address=0x3d, reset=board.GP13)
 display = adafruit_displayio_ssd1306.SSD1306(display_bus, width=128, height=64)
 
 
+
+mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68)
+ledGreen = digitalio.DigitalInOut(board.GP0) # sets pin for green LED
+ledRed = digitalio.DigitalInOut(board.GP1) # sets pin for red LED
+ledGreen.direction = digitalio.Direction.OUTPUT 
+ledRed.direction = digitalio.Direction.OUTPUT 
 
 splash = displayio.Group()
 title = "ANGULAR VELOCITY"
@@ -24,14 +35,6 @@ text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
 splash.append(text_area) 
 display.show(splash)
 
-sda_pin = board.GP14  #setting up my pins in the accelerometer 
-scl_pin = board.GP15 #same thing
-i2c = busio.I2C(scl_pin, sda_pin) # 
-mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68)
-ledGreen = digitalio.DigitalInOut(board.GP0) # sets pin for green LED
-ledRed = digitalio.DigitalInOut(board.GP1) # sets pin for red LED
-ledGreen.direction = digitalio.Direction.OUTPUT 
-ledRed.direction = digitalio.Direction.OUTPUT 
 
 while True:
     XAcceleration = mpu.acceleration[0] #explains the value of tuple for the different values 
