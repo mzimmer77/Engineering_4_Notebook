@@ -29,10 +29,15 @@ ledRed = digitalio.DigitalInOut(board.GP1) # sets pin for red LED
 ledGreen.direction = digitalio.Direction.OUTPUT 
 ledRed.direction = digitalio.Direction.OUTPUT 
 
+# create the display group
 splash = displayio.Group()
+
+# add title block to display group
 title = "ANGULAR VELOCITY"
+# the order of this command is (font, text, text color, and location)
 text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
-splash.append(text_area) 
+splash.append(text_area)    
+# send display group to screen
 display.show(splash)
 
 
