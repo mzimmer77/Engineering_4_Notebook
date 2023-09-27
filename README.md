@@ -130,8 +130,7 @@ This assignment was difficult from the start but when I looked at the assignment
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+The assignment was to successfully set up an accelerometer. Then use those acceleration values to trigger a warning light if the helicopter is tilted at 90 degrees.
 ### Evidence 
 
 ![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/CrashavoidanceP2%20GIF.gif)
@@ -142,34 +141,35 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 
 ### Code
-[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidanceP2.pyy).
 
 ### Reflection
-
+I made sure to use canvas fully so I could see the tips that Mr. Miller gave us which proves I am learning. I only really had to add in the LED which I just wired using any of my countdown projects. Additionally, I used the if ZAcceleration < 0 so that whenever it flips over the LED turns on using a true false statement. I also changed the time.sleep multiple times in order to get the best results which I got at 0.1 seconds.
 
 &nbsp;
 
 
-## Raspberry_Pi_Assignment_Template
+## CrashAvoidanceP3
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+You have successfully set up an accelerometer and made your device mobile. Now you will add an onboard OLED screen to print live angular velocity values.
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/crashavoidancegifP3.gif)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+![My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/crashavoidancewirigP3.png)
 
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+[My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidanceP3.py).
 
 ### Reflection
 
+I had to first figure out how to wire up the OLED screen and I used the same pins as I used for my other I2C device. This also meant that I had to find both I2C devices addresses using the code from onshape. Then I used another part of the code from canavs to set up what my board color was and where the values showed up. The syntax was also important because where you have to define your SCL and SDA pins are very important.
 
 &nbsp;
 
