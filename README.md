@@ -211,7 +211,7 @@ We had to create a beam that was less than or equal to 13 grams and try to make 
 
 ### Part Image
 
-![Nice Screenshot](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/FEA%20BEAM%20PART%20ONE.png)
+![Nice Screenshot](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/FEA%20BEAM%20P1.png)
 ### Reflection
 
 This project made me and Vinnie learn to work as a team together. we both have good ideas and it is hard to choose the best one sometimes it leads to arguments but in the end, we prevailed and came up with a great design that will hopefully hold up lots of weight (more than just the bucket). Our design includes triangles and kites which all allowed us to not implement overhangs into our design. I also relearned lots of things in CAD such as what the chamfer tool does and just some basics that I hadn't used in 4 months. We used variables and design intent to make editing the beam easier. 
