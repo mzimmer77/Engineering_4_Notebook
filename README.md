@@ -200,7 +200,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 
 
-## FEA Part one
+## FEA Part 1
 
 ### Assignment Description
 
@@ -218,23 +218,22 @@ This project made me and Vinnie learn to work as a team together. we both have g
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## FEA Part 3
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Use the FEA feature to figure out where the beam is the weakest and make changes according to that.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[link to Onshape](https://cvilleschools.onshape.com/documents/24b88ffe9264a0c98a74dc0e/w/222f8de2303c65f5e9c59127/e/b07c062eb294af6bb43b9633). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
 ### Part Image
-
-Take a nice screenshot of your Onshape document. 
+![Stress Test](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/stressBEaMFEA.png)
+![Displacement Test](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/displacementBEAMFEA.png)
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+The challenges we had were derived mainly from the relatively short beam which led to less support throughout. That, combined with a design that used a chamfer which gradually slimmed down our beam from 19 mm to 9 mm led to more structural issues. The point most likely to fail was the end because it kept getting skinnier and there wasn't anything helping it to stay up. The changes we decided to make include completely redesigning the beam in order to have any chance of competing at all.
 
 &nbsp;
 
