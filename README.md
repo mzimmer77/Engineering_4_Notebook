@@ -237,23 +237,21 @@ The challenges we had were derived mainly from the relatively short beam which l
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## FEA Part 4
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+After the first attempt, we had to re-design the beam to improve it.
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Beam](https://cvilleschools.onshape.com/documents/49b9e0eb11f732d25ac22ef1/w/bb2d5e80c197373de0c06636/e/ee4df78b5141dc25fd045218?renderMode=0&uiState=65313c8f563a1630a956bad7).
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
-
+![New Beam](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/FEA%20BEAM%20P4%20picture.png).
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+The main problem with our design was that there was no real strength in the triangles and kites. They looked like they might be strong but the way they were designed, they didn't add much value at all. In order to make it better we adjusted them so that they were more helpful in supporting the beam, and we made the beam twice as big as it was before. Then to take off weight we extruded small triangles and circles in between the kites. The von Mises Stress ended up increasing by 37% and got worse, while the displacement decreased by 32% which is better.
 
 &nbsp;
 
