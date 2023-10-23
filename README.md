@@ -207,7 +207,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 We had to create a beam that was less than or equal to 13 grams and try to make it able to hold as much weight as possible.
 ### Part Link 
 
-[Link to Onshapet](https://cvilleschools.onshape.com/documents/24b88ffe9264a0c98a74dc0e/w/222f8de2303c65f5e9c59127/e/16bf75dd5e63ea4c1d80e02d). 
+[Link to Onshape](https://cvilleschools.onshape.com/documents/24b88ffe9264a0c98a74dc0e/w/222f8de2303c65f5e9c59127/e/16bf75dd5e63ea4c1d80e02d). 
 
 ### Part Image
 
