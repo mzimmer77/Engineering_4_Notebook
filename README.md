@@ -174,6 +174,51 @@ I had to first figure out how to wire up the OLED screen and I used the same pin
 &nbsp;
 
 
+## LandingareaP1
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
+## LandingareaP2
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
@@ -197,6 +242,97 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 &nbsp;
 
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
+
+## Raspberry_Pi_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence 
+
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+
+### Wiring
+
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+
+
+### Code
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+### Reflection
+
+
+&nbsp;
 
 
 
