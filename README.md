@@ -219,8 +219,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
-
+## MorseCodeP1
 ### Assignment Description
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
@@ -242,7 +241,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## MorseCodeP2
 
 ### Assignment Description
 
