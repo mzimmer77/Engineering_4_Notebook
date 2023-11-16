@@ -1,3 +1,4 @@
+## thanks @avanhoo for the help with understanding the code.
 import board
 import busio
 import adafruit_mpu6050
