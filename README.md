@@ -264,7 +264,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## DataSaveP1
 
 ### Assignment Description
 
@@ -283,7 +283,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
 
 ### Reflection
-
+This assignment involved using my previous knowledge from the crash avoidance assignments helped me use the gyroscope to get my values. Afton used the "{round(imu.acceleration[0]-.6,1)}" which both grabbed the values from the acceleration and then prints them into a spreadsheet. Opening and creating the data sheet was difficult because I forgot to add the / in "with open("/data.csv", "a")" and that was a problem that I had to solve.
 
 &nbsp;
 
