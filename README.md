@@ -177,19 +177,18 @@ I had to first figure out how to wire up the OLED screen and I used the same pin
 ## LandingareaP1
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+This assignment challenged me to feed my PICO coordinates and then it would have to give me the area of the triangle.
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My PIC](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/landing%201%20final%20.png)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-
+My wiring consisted of plugging the PICO into the computer.
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20AREA%20P1.py).
 
 ### Reflection
 
