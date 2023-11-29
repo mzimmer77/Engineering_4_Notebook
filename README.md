@@ -144,7 +144,7 @@ The assignment was to successfully set up an accelerometer. Then use those accel
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidanceP2.pyy).
 
 ### Reflection
-I made sure to use canvas fully so I could see the tips that Mr. Miller gave us which proves I am learning. I only really had to add in the LED which I just wired using any of my countdown projects. Additionally, I used the if ZAcceleration < 0 so that whenever it flips over the LED turns on using a true false statement. I also changed the time.sleep multiple times in order to get the best results which I got at 0.1 seconds.
+I made sure to use Canvas fully so I could see the tips that Mr. Miller gave us which proves I am learning. I only really had to add in the LED which I just wired using any of my countdown projects. Additionally, I used the if ZAcceleration < 0 so that whenever it flips over the LED turns on using a true false statement. I also changed the time.sleep multiple times in order to get the best results which I got at 0.1 seconds.
 
 &nbsp;
 
@@ -192,51 +192,54 @@ My wiring consisted of plugging the PICO into the computer.
 
 ### Reflection
 
-
+This assignment was challenging, to say the least, and I could not figure out even how to start. I asked my peer Grant Gastinger for some help and I used his code in order to help me understand what this project entailed and what I should take away from it. Although I have never done math within VS Code I learned that to find area, the "area = TriArea(x1,y1,x2,y2,x3,y3)" plugs in the values and finds the area which is a crucial step.
 &nbsp;
 
 ## LandingareaP2
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+Landing Area Part 2 required me to print my triangle onto an OLED screen
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/ladingaeareapp2.gif)
 
 ### Wiring
-
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+My wiring consisted of the:
+PicoW was wired to OLED Screen using the following
+3V3 (OUT) from the Pico to Vin on the screen
+SDA (Data) to GP14
+SCL (Clk) to GP15
+GND to GND.
 
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/LAndingareap2.py).
 
 ### Reflection
 
+I built my code around the previous code which I got from Grant Gastinger and with help from him once again he showed me how to integrate the OLED display into the previous code. The idea was that the PICO would get the 3 coordinates, map them, and then fill the lines between the points. "triangle = Triangle(X1, Y1, X2, Y2, X3, Y3, outline=0xFFFF00)" This was an important function because it connected the 3 points and created the triangle.
 
 &nbsp;
 
 ## MorseCodeP1
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+This assignment required me to write a message in English and then have the PICO turn it into Morse code.
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/MorseCodeP1.gif)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-
+I plugged my PICO into the computer.
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+![My Code]https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCodeP1.py).
 
 ### Reflection
-
+This assignment was straightforward after Nick Bednar Gave me his Morse code library. I basically just put something to define messages "message = input("Your Message: ").upper()" and then converted the numbers to letters "for letter in range(len(message)): #converts # to letters".
 
 &nbsp;
 
@@ -244,19 +247,18 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+I had to use the previous assignment and then add on an LED which would blink with the morse code translation.
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/MorseCodep2.gif)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-
+My PICO was plugged in and a LED was plugged into the GPO and the ground rail I also had a 200 OHM resistor on the ground rail and the GND pin.
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorsecodeP2.py).
 
 ### Reflection
 
