@@ -255,13 +255,13 @@ I had to use the previous assignment and then add on an LED which would blink wi
 
 ### Wiring
 
-My PICO was plugged in and a LED was plugged into the GPO and the ground rail I also had a 200 OHM resistor on the ground rail and the GND pin.
+My PICO was plugged in and an LED was plugged into the GPO and the ground rail I also had a 200 OHM resistor on the ground rail and the GND pin.
 
 ### Code
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorsecodeP2.py).
 
 ### Reflection
-
+I added to the Morse Code P1 by integrating an LED which I made blink in Morse code when it translated from English. The use of if statements was crucial for this project so the LED would be on unless all of the different if possiblities would happen. The LED would also not blink whenever "dot_time, dash_time, between_letters, between_words" and the other ones would turn it on.
 
 &nbsp;
 
