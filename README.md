@@ -32,7 +32,7 @@ The wiring consisted of plugging the PICO board into my computer.
 [My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/launchpadP1.py)
 
 ### Reflection
-This project was a great refresher for my python skills. I used the "for x in range (10,0,-1)" to make my intervals which would go down by 1. I learned/ remembered the syntax which was honestly annoying but it is pretty simple once you remember it (the key is to use commas for the loop).
+This project was a great refresher for my Python skills. I used the "for x in range (10,0,-1)" to make my intervals which would go down by 1. I learned/ remembered the syntax which was honestly annoying but it is pretty simple once you remember it (the key is to use commas for the loop).
 
 &nbsp;
 
@@ -189,10 +189,11 @@ My wiring consisted of plugging the PICO into the computer.
 
 ### Code
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20AREA%20P1.py).
-
+Thank you @ggastin30 for the code which I used to complete this assignment.
 ### Reflection
 
-This assignment was challenging, to say the least, and I could not figure out even how to start. I asked my peer Grant Gastinger for some help and I used his code in order to help me understand what this project entailed and what I should take away from it. Although I have never done math within VS Code I learned that to find area, the "area = TriArea(x1,y1,x2,y2,x3,y3)" plugs in the values and finds the area which is a crucial step.
+This assignment was challenging, to say the least, and I could not figure out even how to start. I asked my peer Grant Gastinger for some help and I used his code in order to help me understand what this project entailed and what I should take away from it. Although I have never done math within VS Code I learned that to find area, the "area = TriArea(x1,y1,x2,y2,x3,y3)" plugs in the values and finds the area which is a crucial step. "I copied my entire coding assignment from Grant Gastinger. Here is a link to their notebook: https://github.com/ggastin30/Engineering_4_Notebook 
+
 &nbsp;
 
 ## LandingareaP2
@@ -218,7 +219,8 @@ GND to GND.
 
 ### Reflection
 
-I built my code around the previous code which I got from Grant Gastinger and with help from him once again he showed me how to integrate the OLED display into the previous code. The idea was that the PICO would get the 3 coordinates, map them, and then fill the lines between the points. "triangle = Triangle(X1, Y1, X2, Y2, X3, Y3, outline=0xFFFF00)" This was an important function because it connected the 3 points and created the triangle.
+I built my code around the previous code which I got from Grant Gastinger and with help from him once again he showed me how to integrate the OLED display into the previous code. The idea was that the PICO would get the 3 coordinates, map them, and then fill the lines between the points. "triangle = Triangle(X1, Y1, X2, Y2, X3, Y3, outline=0xFFFF00)" This was an important function because it connected the 3 points and created the triangle. "I copied my entire coding assignment from Grant Gastinger. Here is a link to their notebook: https://github.com/ggastin30/Engineering_4_Notebook 
+
 
 &nbsp;
 
@@ -239,7 +241,8 @@ I plugged my PICO into the computer.
 ![My Code]https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCodeP1.py).
 
 ### Reflection
-This assignment was straightforward after Nick Bednar Gave me his Morse code library. I basically just put something to define messages "message = input("Your Message: ").upper()" and then converted the numbers to letters "for letter in range(len(message)): #converts # to letters".
+This assignment was straightforward after Nick Bednar Gave me his Morse code library. I basically just put something to define messages "message = input("Your Message: ").upper()" and then converted the numbers to letters "for letter in range(len(message)): #converts # to letters". #"I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
+
 
 &nbsp;
 
@@ -261,7 +264,8 @@ My PICO was plugged in and an LED was plugged into the GPO and the ground rail I
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorsecodeP2.py).
 
 ### Reflection
-I added to the Morse Code P1 by integrating an LED which I made blink in Morse code when it translated from English. The use of if statements was crucial for this project so the LED would be on unless all of the different if possiblities would happen. The LED would also not blink whenever "dot_time, dash_time, between_letters, between_words" and the other ones would turn it on.
+I added to the Morse Code P1 by integrating an LED which I made blink in Morse code when it translated from English. The use of if statements was crucial for this project so the LED would be on unless all of the different if possiblities would happen. The LED would also not blink whenever "dot_time, dash_time, between_letters, between_words" and the other ones would turn it on. "I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
+
 
 &nbsp;
 
@@ -273,18 +277,18 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![My GIF](https://drive.google.com/file/d/1ZefpjctRUO0gTG0-dI94C7Jr4wSwXdPS/view?usp=drive_link)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
+[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/DATASAVEWIRING.png)
 
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/DataStorageP1.py).
 
 ### Reflection
-This assignment involved using my previous knowledge from the crash avoidance assignments helped me use the gyroscope to get my values. Afton used the "{round(imu.acceleration[0]-.6,1)}" which both grabbed the values from the acceleration and then prints them into a spreadsheet. Opening and creating the data sheet was difficult because I forgot to add the / in "with open("/data.csv", "a")" and that was a problem that I had to solve.
+This assignment involved using my previous knowledge from the crash avoidance assignments helped me use the gyroscope to get my values. Afton used the "{round(imu.acceleration[0]-.6,1)}" which both grabbed the values from the acceleration and then printed them into a spreadsheet. Opening and creating the data sheet was difficult because I forgot to add the / in "with open("/data.csv", "a")" and that was a problem that I had to solve. "I copied my entire coding assignment from Afton van Hooser. Here is a link to their notebook." https://github.com/Avanhoo/Engineering_4_Notebook
 
 &nbsp;
 
