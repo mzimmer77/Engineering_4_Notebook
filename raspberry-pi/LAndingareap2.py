@@ -1,4 +1,5 @@
 #type: ignore
+#"I copied my entire coding assignment from Grant gastinger. Here is a link to their notebook: https://github.com/ggastin30/Engineering_4_Notebook 
 
 import board
 import displayio

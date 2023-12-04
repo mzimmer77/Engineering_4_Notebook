@@ -1,4 +1,5 @@
 ## thanks @avanhoo for the help with understanding the code.
+#I copied my entire coding assignment from Afton van Hooser. Here is a link to their notebook. https://github.com/aweder05/Engineering_4_Notebook#landing_area_part_1
 import board
 import busio
 import adafruit_mpu6050

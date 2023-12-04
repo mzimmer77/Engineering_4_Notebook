@@ -1,4 +1,5 @@
 #type: ignore
+#"I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
 #imports
 import time 
 import board 
@@ -62,6 +63,6 @@ while True:
        if character == "/":    
            time.sleep(between_words)
            led.value = False
-   #prints message and changingfor all characters
+   #prints message and changing for all characters
    print(f"Your Translation: {tmessage}")
    time.sleep(1)

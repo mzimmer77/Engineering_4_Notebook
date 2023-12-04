@@ -1,4 +1,5 @@
 #type: ignore
+#"I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
 #imports
 import time 
 
