@@ -277,7 +277,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
-![My GIF](https://drive.google.com/file/d/1ZefpjctRUO0gTG0-dI94C7Jr4wSwXdPS/view?usp=drive_link)
+[My GIF](https://drive.google.com/file/d/1ZefpjctRUO0gTG0-dI94C7Jr4wSwXdPS/view?usp=drive_link)
 
 ### Wiring
 
