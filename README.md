@@ -241,7 +241,7 @@ I plugged my PICO into the computer.
 ![My Code]https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCodeP1.py).
 
 ### Reflection
-This assignment was straightforward after Nick Bednar Gave me his Morse code library. I basically just put something to define messages "message = input("Your Message: ").upper()" and then converted the numbers to letters "for letter in range(len(message)): #converts # to letters". #"I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
+This assignment was straightforward after Nick Bednar Gave me his Morse code library. I just put something to define messages "message = input("Your Message: ").upper()" and then converted the numbers to letters "for letter in range(len(message)): #converts # to letters". #"I copied my entire coding assignment from Nick Bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
 
 
 &nbsp;
@@ -250,7 +250,7 @@ This assignment was straightforward after Nick Bednar Gave me his Morse code lib
 
 ### Assignment Description
 
-I had to use the previous assignment and then add on an LED which would blink with the morse code translation.
+I had to use the previous assignment and then add on an LED which would blink with the Morse code translation.
 
 ### Evidence 
 
@@ -264,7 +264,7 @@ My PICO was plugged in and an LED was plugged into the GPO and the ground rail I
 ![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/MorsecodeP2.py).
 
 ### Reflection
-I added to the Morse Code P1 by integrating an LED which I made blink in Morse code when it translated from English. The use of if statements was crucial for this project so the LED would be on unless all of the different if possiblities would happen. The LED would also not blink whenever "dot_time, dash_time, between_letters, between_words" and the other ones would turn it on. "I copied my entire coding assignment from nick bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
+I added to the Morse Code P1 by integrating an LED which I made blink in Morse code when it translated from English. The use of if statements was crucial for this project so the LED would be on unless all of the different if possiblities would happen. The LED would also not blink whenever "dot_time, dash_time, between_letters, between_words" and the other ones would turn it on. "I copied my entire coding assignment from Nick Bednar. Here is a link to their notebook. https://github.com/nbednar2929/Engineering_4_Notebook
 
 
 &nbsp;
@@ -292,26 +292,26 @@ This assignment involved using my previous knowledge from the crash avoidance as
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
-
+## DataSaveP2
 ### Assignment Description
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Evidence 
 
-![My GIF](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/countdownP2gif.gif)
+![X,Y,Z chart](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/DataCOllectP2.png)
+![Tilt chart](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/DATacolectP2V2TIlt.png)
 
 ### Wiring
 
-[My wiring](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/images/launchpadpart2wiringdiagram.png)
-
+This assignment was purely on Google Sheets.
 
 ### Code
-![My Code](https://github.com/mzimmer77/Engineering_4_Notebook/blob/main/raspberry-pi/COuntdownP2.py).
+
+No code was required
 
 ### Reflection
-
+This assignment was sponsored by the ZYN which helped me focus and relax while doing this very stressful and difficult assignment. ZYN has sponsorships all over the world and especially in ZYNbabwe where they get steezy with the sticks.
 
 &nbsp;
 
