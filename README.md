@@ -273,7 +273,7 @@ I added to the Morse Code P1 by integrating an LED which I made blink in Morse c
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+In this assignment, I had to take data from my accelerometer, store it onboard the Pico, and then open it on my computer. 
 
 ### Evidence 
 
